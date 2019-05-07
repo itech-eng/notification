@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/jinzhu/gorm"
-	"github.com/qor/notification"
-	"github.com/qor/qor"
+	"github.com/itech-eng/notification"
+	"github.com/itech-eng/qor"
 )
 
 type Config struct {

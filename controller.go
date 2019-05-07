@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/qor/admin"
-	"github.com/qor/responder"
+	"github.com/itech-eng/admin"
+	"github.com/itech-eng/responder"
 )
 
 type controller struct {

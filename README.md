@@ -1,6 +1,6 @@
 # QOR Notification
 
-QOR Notification provides a way to send notifications to [QOR Admin](https://github.com/qor/admin) administrators. Notifications can be anything your system needs, like order update, delivery notices, whatever.
+QOR Notification provides a way to send notifications to [QOR Admin](https://github.com/itech-eng/admin) administrators. Notifications can be anything your system needs, like order update, delivery notices, whatever.
 
 ## Usage
 
